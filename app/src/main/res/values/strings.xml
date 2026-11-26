@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Screenshot Flash Disabler</string>
     <string name="check_now">Check for updates</string>
-    <string name="checking">Checking…</string>
+    <string name="checking">Checking...</string>
     <string name="up_to_date">You are on the latest version</string>
     <string name="check_failed">Could not check for updates</string>
     <string name="update_available">Update available: v%1$s</string>
