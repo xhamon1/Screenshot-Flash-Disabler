@@ -16,6 +16,7 @@ android {
 
     buildFeatures {
         viewBinding true
+        buildConfig true
     }
 
     compileOptions {
@@ -29,5 +30,6 @@ dependencies {
     implementation libs.androidx.appcompat
     implementation libs.material
     implementation libs.androidx.constraintlayout
+    implementation libs.androidx.work.runtime
     compileOnly 'de.robv.android.xposed:api:82'
 }
